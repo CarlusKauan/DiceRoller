@@ -8,6 +8,6 @@
 
 
 <div align="center">
-  <img src="DiceRoller.jpg" width="420"/>
+  <img src="DiceRoller.jpg" width="400"/>
 </div>
 
