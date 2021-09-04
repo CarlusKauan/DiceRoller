@@ -1,0 +1,2 @@
+# DiceRoller
+Rolar Dados [PT]
